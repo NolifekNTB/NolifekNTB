@@ -31,11 +31,5 @@ My journey with Android started when I was 13, when I rooted my first phone, unl
 ▸ Coil, Glide <br>
 ▸ Gradle, Maven <br>
 ▸ Material Design 3 <br>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NolifekNTB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NolifekNTB&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NolifekNTB&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=NolifekNTB&icon=0&color=0)](https://visitcount.itsvg.in)
