@@ -23,7 +23,7 @@
 
 -----------------
 <h1>Hi 👋, I'm Kacper</h1>
-<p></p>
+
 # 💫 About Me:
 Android Developer
 
