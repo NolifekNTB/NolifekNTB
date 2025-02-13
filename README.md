@@ -1,6 +1,4 @@
 -----------------
-<h1>Hi 👋, I'm Kacper</h1>
-
 # 💫 About Me:
 I’m a passionate Android Developer specializing in Kotlin and Jetpack Compose. My experience includes building modern Android apps using MVVM, Coroutines, and other Android Jetpack libraries.
 
@@ -38,12 +36,6 @@ My journey with Android started when I was 13, when I rooted my first phone, unl
 ![](https://github-readme-stats.vercel.app/api?username=NolifekNTB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NolifekNTB&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NolifekNTB&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NolifekNTB&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NolifekNTB&icon=0&color=0)](https://visitcount.itsvg.in)
