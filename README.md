@@ -20,8 +20,8 @@ My journey with Android started when I was 13, when I rooted my first phone, unl
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
 # 📱 Android Tech stack:
-
-▸ <p>MVVM, MVI, Clean Architecture, Clean code </p><br>
+<p>
+▸ MVVM, MVI, Clean Architecture, Clean code <br>
 ▸ Coroutines/Flow <br>
 ▸ Compose, ViewBinding, DataBinding <br>
 ▸ Koin, Dagger, Hilt <br>
@@ -31,5 +31,6 @@ My journey with Android started when I was 13, when I rooted my first phone, unl
 ▸ Coil, Glide <br>
 ▸ Gradle, Maven <br>
 ▸ Material Design 3 <br>
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=NolifekNTB&icon=0&color=0)](https://visitcount.itsvg.in)
