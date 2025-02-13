@@ -1,4 +1,3 @@
------------------
 # 💫 About Me:
 I’m a passionate Android Developer specializing in Kotlin and Jetpack Compose. My experience includes building modern Android apps using MVVM, Coroutines, and other Android Jetpack libraries.
 
@@ -22,7 +21,7 @@ My journey with Android started when I was 13, when I rooted my first phone, unl
 
 # 📱 Android Tech stack:
 
-▸ MVVM, MVI, Clean Architecture, Clean code <br>
+▸ <p>MVVM, MVI, Clean Architecture, Clean code </p><br>
 ▸ Coroutines/Flow <br>
 ▸ Compose, ViewBinding, DataBinding <br>
 ▸ Koin, Dagger, Hilt <br>
@@ -32,5 +31,5 @@ My journey with Android started when I was 13, when I rooted my first phone, unl
 ▸ Coil, Glide <br>
 ▸ Gradle, Maven <br>
 ▸ Material Design 3 <br>
----
+
 [![](https://visitcount.itsvg.in/api?id=NolifekNTB&icon=0&color=0)](https://visitcount.itsvg.in)
