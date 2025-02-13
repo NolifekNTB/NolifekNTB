@@ -9,10 +9,10 @@ My journey with Android started when I was 13, when I rooted my first phone, unl
 # 💻 Programming Tech Stack:
 ● Programming languages <br>
 &nbsp;&nbsp; • Kotlin <br>
-  • Java <br>
+&nbsp;&nbsp;• Java <br>
 ● Databases <br>
-  • Realm <br>
-  • MySQL <br>
+&nbsp;&nbsp;• Realm <br>
+&nbsp;&nbsp;• MySQL <br>
 ● Design - Figma <br>
 ● Version Control - Git <br>
 ● Operating systems - Windows, Linux <br>
