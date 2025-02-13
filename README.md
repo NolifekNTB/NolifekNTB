@@ -9,7 +9,7 @@ My journey with Android started when I was 13, when I rooted my first phone, unl
 ## 🌐 Socials:
 <p><a target="_blank" href="https://www.linkedin.com/in/kacper-kotlowski" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
-# 💻 Tech Stack:
+# 💻 Programming Tech Stack:
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="42" height="42" /></a>
@@ -22,23 +22,22 @@ My journey with Android started when I was 13, when I rooted my first phone, unl
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
+# 📱 Android Tech stack:
+▸ MVVM, MVI, Clean Architecture, Clean code <br>
+▸ Coroutines/Flow <br>
+▸ Compose, ViewBinding, DataBinding <br>
+▸ Koin, Dagger, Hilt <br>
+▸ Ktor, Retrofit <br>
+▸ Room, RealmDB <br>
+▸ KotlinX Serialization, Gson <br>
+▸ Coil, Glide <br>
+▸ Gradle, Maven <br>
+▸ Material Design 3 <br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NolifekNTB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NolifekNTB&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NolifekNTB&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# 📱 Android Tech stack:
-▸ MVVM, MVI, Clean Architecture, Clean code
-▸ Coroutines/Flow
-▸ Compose, ViewBinding, DataBinding
-▸ Koin, Dagger, Hilt
-▸ Ktor, Retrofit
-▸ Room, RealmDB
-▸ KotlinX Serialization, Gson
-▸ Coil, Glide
-▸ Gradle, Maven
-▸ Material Design 3
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NolifekNTB&theme=radical&no-frame=false&no-bg=false&margin-w=4)
