@@ -27,6 +27,19 @@ My journey with Android started when I was 13, when I rooted my first phone, unl
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NolifekNTB&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NolifekNTB&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📱 Android Tech stack:
+▸ MVVM, MVI, Clean Architecture, Clean code
+▸ Coroutines/Flow
+▸ Compose, ViewBinding, DataBinding
+▸ Koin, Dagger, Hilt
+▸ Ktor, Retrofit
+▸ Room, RealmDB
+▸ KotlinX Serialization, Gson
+▸ Coil, Glide
+▸ Gradle, Maven
+▸ Material Design 3
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NolifekNTB&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
