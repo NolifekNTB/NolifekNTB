@@ -21,6 +21,7 @@ My journey with Android started when I was 13, when I rooted my first phone, unl
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
 # 📱 Android Tech stack:
+
 ▸ MVVM, MVI, Clean Architecture, Clean code <br>
 ▸ Coroutines/Flow <br>
 ▸ Compose, ViewBinding, DataBinding <br>
