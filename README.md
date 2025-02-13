@@ -8,7 +8,7 @@ My journey with Android started when I was 13, when I rooted my first phone, unl
 
 # 💻 Programming Tech Stack:
 ● Programming languages <br>
-&nbsp;• Kotlin <br>
+&nbsp;&nbsp; • Kotlin <br>
   • Java <br>
 ● Databases <br>
   • Realm <br>
