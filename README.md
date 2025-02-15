@@ -7,12 +7,8 @@ My journey with Android started when I was 13, when I rooted my first phone, unl
 <p><a target="_blank" href="https://www.linkedin.com/in/kacper-kotlowski" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 # 💻 Programming Tech Stack:
-● Programming languages <br>
-&nbsp;&nbsp;• Kotlin <br>
-&nbsp;&nbsp;• Java <br>
-● Databases <br>
-&nbsp;&nbsp;• Realm <br>
-&nbsp;&nbsp;• MySQL <br>
+● Programming languages - Kotlin, Java <br>
+● Databases - Realm, MySQL <br>
 ● Design - Figma <br>
 ● Version Control - Git <br>
 ● Operating systems - Windows, Linux <br>
