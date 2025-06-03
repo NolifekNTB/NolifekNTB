@@ -4,7 +4,8 @@ I’m a passionate Android Developer specializing in Kotlin and Jetpack Compose.
 My journey with Android started when I was 13, when I rooted my first phone, unlocked the first bootloader, and installed a custom ROM. Five years later, I began creating Android applications using Kotlin. I've gained a lot of experience by creating many Android apps with Kotlin. Every project has taught me something new.
 
 ## 🌐 Socials:
-<p><a target="_blank" href="https://www.linkedin.com/in/kacper-kotlowski" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+🕒 wakaTime - https://wakatime.com/@Nolifek
+🐦 X - https://x.com/Kacper06738640
 
 # 💻 Programming Tech Stack:
 ● Programming languages - Kotlin, Java <br>
