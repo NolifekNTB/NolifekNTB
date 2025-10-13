@@ -5,9 +5,8 @@ My journey with Android started when I was 13, when I rooted my first phone, unl
 
 ## 🌐 Socials:
 💼 Linkedin - www.linkedin.com/in/kacper-kotlowski <br>
-🅾 Instagram - https://www.instagram.com/_kacperkotlowski_/ <br>
 🕒 wakaTime - https://wakatime.com/@Nolifek <br>
-🐦 X - https://x.com/Kacper06738640 <br>
+📝 Blog - https://kotlowski.hashnode.dev/
 
 # 💻 Programming Tech Stack:
 ● Programming languages - Kotlin, Java <br>
