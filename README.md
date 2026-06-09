@@ -1,37 +1,52 @@
-# 💫 About Me:
-I’m a passionate Android Developer specializing in Kotlin and Jetpack Compose. My experience includes building modern Android apps using MVVM, Coroutines, and other Android Jetpack libraries.
+# 💫 About Me
 
-My journey with Android started when I was 13, when I rooted my first phone, unlocked the first bootloader, and installed a custom ROM. Five years later, I began creating Android applications using Kotlin. I've gained a lot of experience by creating many Android apps with Kotlin. Every project has taught me something new.
+I'm a Software Engineer transitioning into DevOps and Platform Engineering, with 2 years of commercial Android development experience.
 
-## 🌐 Socials:
-Portfolio - https://nolifekntb.github.io/portfolio/ <br>
-Instagram - https://www.instagram.com/_kacperkotlowski_/ <br>
-Titkok - https://www.tiktok.com/@kacperkk123 <br>
-Medium - https://medium.com/@kacperkotlowskikk1 <br>
-Youtube - https://www.youtube.com/@nolifek118 <br>
-Linkedin - www.linkedin.com/in/kacper-kotlowski <br>
-X (Twitter) - https://x.com/Kacper06738640 <br>
+My background in software development taught me how modern applications are built, tested, and delivered. Today, my focus is on Linux, Docker, Kubernetes, Terraform, CI/CD, monitoring, and cloud infrastructure.
 
-# 💻 Programming Tech Stack:
-● Programming languages - Kotlin, Java <br>
-● Databases - Realm, MySQL <br>
-● Design - Figma <br>
-● Version Control - Git <br>
-● Operating systems - Windows, Linux <br>
-● Backend - Firebase <br>
+My journey into technology started when I was 13 years old, rooting my first Android phone, unlocking bootloaders, and installing custom ROMs. That curiosity later evolved into Android development and eventually into a broader interest in how software is deployed, automated, and operated at scale.
 
-# 📱 Android Tech stack:
-<p>
-▸ MVVM, MVI, Clean Architecture, Clean code <br>
-▸ Coroutines/Flow <br>
-▸ Compose, ViewBinding, DataBinding <br>
-▸ Koin, Dagger, Hilt <br>
-▸ Ktor, Retrofit <br>
-▸ Room, RealmDB <br>
-▸ KotlinX Serialization, Gson <br>
-▸ Coil, Glide <br>
-▸ Gradle, Maven <br>
-▸ Material Design 3 <br>
-</p>
+I enjoy building projects, learning new technologies, and understanding how complex systems work under the hood.
 
-[![](https://visitcount.itsvg.in/api?id=NolifekNTB&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌐 Socials
+
+Portfolio - https://nolifekntb.github.io/portfolio/
+LinkedIn - https://www.linkedin.com/in/kacper-kotlowski
+GitHub - https://github.com/NolifekNTB
+Medium - https://medium.com/@kacperkotlowskikk1
+YouTube - https://www.youtube.com/@nolifek118
+X (Twitter) - https://x.com/Kacper06738640
+Instagram - https://www.instagram.com/_kacperkotlowski_/
+TikTok - https://www.tiktok.com/@kacperkk123
+
+# 💻 Tech Stack
+
+### DevOps & Infrastructure
+
+* Linux
+* Docker
+* Kubernetes
+* Terraform
+* Jenkins
+* GitHub Actions
+* Git
+* Prometheus
+* Grafana
+* Bash
+
+### Programming
+
+* Kotlin
+* Java
+* Python
+* SQL
+
+### Cloud & Backend
+
+* Firebase
+* MySQL
+* REST APIs
+
+---
+
+*"First, learn to build software. Then learn to build the systems that build software."*
