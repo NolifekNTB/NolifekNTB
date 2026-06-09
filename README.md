@@ -8,17 +8,6 @@ My journey into technology started when I was 13 years old, rooting my first And
 
 I enjoy building projects, learning new technologies, and understanding how complex systems work under the hood.
 
-## 🌐 Socials
-
-Portfolio - https://nolifekntb.github.io/portfolio/ <br>
-LinkedIn - https://www.linkedin.com/in/kacper-kotlowski <br>
-GitHub - https://github.com/NolifekNTB <br>
-Medium - https://medium.com/@kacperkotlowskikk1 <br>
-YouTube - https://www.youtube.com/@nolifek118 <br>
-X (Twitter) - https://x.com/Kacper06738640 <br>
-Instagram - https://www.instagram.com/_kacperkotlowski_/ <br>
-TikTok - https://www.tiktok.com/@kacperkk123 <br>
-
 # 💻 Tech Stack
 
 ### DevOps & Infrastructure
