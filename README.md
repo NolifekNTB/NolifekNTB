@@ -10,14 +10,14 @@ I enjoy building projects, learning new technologies, and understanding how comp
 
 ## 🌐 Socials
 
-Portfolio - https://nolifekntb.github.io/portfolio/
-LinkedIn - https://www.linkedin.com/in/kacper-kotlowski
-GitHub - https://github.com/NolifekNTB
-Medium - https://medium.com/@kacperkotlowskikk1
-YouTube - https://www.youtube.com/@nolifek118
-X (Twitter) - https://x.com/Kacper06738640
-Instagram - https://www.instagram.com/_kacperkotlowski_/
-TikTok - https://www.tiktok.com/@kacperkk123
+Portfolio - https://nolifekntb.github.io/portfolio/ <br>
+LinkedIn - https://www.linkedin.com/in/kacper-kotlowski <br>
+GitHub - https://github.com/NolifekNTB <br>
+Medium - https://medium.com/@kacperkotlowskikk1 <br>
+YouTube - https://www.youtube.com/@nolifek118 <br>
+X (Twitter) - https://x.com/Kacper06738640 <br>
+Instagram - https://www.instagram.com/_kacperkotlowski_/ <br>
+TikTok - https://www.tiktok.com/@kacperkk123 <br>
 
 # 💻 Tech Stack
 
